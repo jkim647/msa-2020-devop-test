@@ -1,1 +1,0 @@
-# msa-2020-devop-test
